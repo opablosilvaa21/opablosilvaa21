@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou Pablo Araujo
+# Olá, eu sou Pablo Araujo
 
-🎓 Análise e Desenvolvimento de Sistemas - FAM
+ Análise e Desenvolvimento de Sistemas - FAM
 
-💻 Desenvolvedor Back-end em formação
+ Desenvolvedor Back-end em formação
 
-☕ Java | Spring Boot | MySQL | REST APIs | Git
+ Java | Spring Boot | MySQL | REST APIs | Git
 
-🚀 Buscando oportunidades em Desenvolvimento Back-end Java
+ Buscando oportunidades em Desenvolvimento Back-end Java
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Java
 - Spring Boot
@@ -22,7 +22,7 @@
 
 ---
 
-## 📂 Projetos
+##  Projetos
 
 ### User Registration API
 API REST para cadastro de usuários utilizando Java, Spring Boot e JPA.
@@ -35,7 +35,7 @@ Controle de receitas, despesas e categorias financeiras.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 LinkedIn: https://www.linkedin.com/in/pablo-ara%C3%BAjo-silva/
 

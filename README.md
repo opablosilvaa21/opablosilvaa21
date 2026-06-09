@@ -27,12 +27,6 @@
 ### User Registration API
 API REST para cadastro de usuários utilizando Java, Spring Boot e JPA.
 
-### Banking API *(Em desenvolvimento)*
-Sistema bancário com autenticação, contas e transferências.
-
-### Financial Control API *(Em desenvolvimento)*
-Controle de receitas, despesas e categorias financeiras.
-
 ---
 
 ##  Contato
